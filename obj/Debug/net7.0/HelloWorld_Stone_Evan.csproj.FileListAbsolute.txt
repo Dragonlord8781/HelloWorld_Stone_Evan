@@ -1,0 +1,14 @@
+C:\Users\EVANSTONE\source\repos\HelloWorld_Stone_Evan\HelloWorld_Stone_Evan\bin\Debug\net7.0\HelloWorld_Stone_Evan.exe
+C:\Users\EVANSTONE\source\repos\HelloWorld_Stone_Evan\HelloWorld_Stone_Evan\bin\Debug\net7.0\HelloWorld_Stone_Evan.deps.json
+C:\Users\EVANSTONE\source\repos\HelloWorld_Stone_Evan\HelloWorld_Stone_Evan\bin\Debug\net7.0\HelloWorld_Stone_Evan.runtimeconfig.json
+C:\Users\EVANSTONE\source\repos\HelloWorld_Stone_Evan\HelloWorld_Stone_Evan\bin\Debug\net7.0\HelloWorld_Stone_Evan.dll
+C:\Users\EVANSTONE\source\repos\HelloWorld_Stone_Evan\HelloWorld_Stone_Evan\bin\Debug\net7.0\HelloWorld_Stone_Evan.pdb
+C:\Users\EVANSTONE\source\repos\HelloWorld_Stone_Evan\HelloWorld_Stone_Evan\obj\Debug\net7.0\HelloWorld_Stone_Evan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVANSTONE\source\repos\HelloWorld_Stone_Evan\HelloWorld_Stone_Evan\obj\Debug\net7.0\HelloWorld_Stone_Evan.AssemblyInfoInputs.cache
+C:\Users\EVANSTONE\source\repos\HelloWorld_Stone_Evan\HelloWorld_Stone_Evan\obj\Debug\net7.0\HelloWorld_Stone_Evan.AssemblyInfo.cs
+C:\Users\EVANSTONE\source\repos\HelloWorld_Stone_Evan\HelloWorld_Stone_Evan\obj\Debug\net7.0\HelloWorld_Stone_Evan.csproj.CoreCompileInputs.cache
+C:\Users\EVANSTONE\source\repos\HelloWorld_Stone_Evan\HelloWorld_Stone_Evan\obj\Debug\net7.0\HelloWorld_Stone_Evan.dll
+C:\Users\EVANSTONE\source\repos\HelloWorld_Stone_Evan\HelloWorld_Stone_Evan\obj\Debug\net7.0\refint\HelloWorld_Stone_Evan.dll
+C:\Users\EVANSTONE\source\repos\HelloWorld_Stone_Evan\HelloWorld_Stone_Evan\obj\Debug\net7.0\HelloWorld_Stone_Evan.pdb
+C:\Users\EVANSTONE\source\repos\HelloWorld_Stone_Evan\HelloWorld_Stone_Evan\obj\Debug\net7.0\HelloWorld_Stone_Evan.genruntimeconfig.cache
+C:\Users\EVANSTONE\source\repos\HelloWorld_Stone_Evan\HelloWorld_Stone_Evan\obj\Debug\net7.0\ref\HelloWorld_Stone_Evan.dll
