@@ -1,7 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//Says hello
 Console.WriteLine("Hello, User!");
+//Asks for first name
 Console.WriteLine("Please insert first name");
-string input1 = Console.ReadLine();
-Console.WriteLine($"Hello {input1}, please specify with last name");
-string input2 = Console.ReadLine();
-Console.WriteLine($"Thank you, Hello {input1} {input2}");
+//Code to enter first name
+string firstName = Console.ReadLine();
+// Introduces to you with first name, asks for last name
+Console.WriteLine($"Hello {firstName}, please specify with last name");
+//Code to enter last name
+string lastName = Console.ReadLine();
+//Thanks you with you full name, first and Last
+Console.WriteLine($"Thank you, Hello {firstName} {lastName}");
